@@ -14,6 +14,10 @@ test.log(text:"Hello, World!")
 
 let app = Application()
 
+app.get("/") { request in
+    return "<html><body><h1>Example vapor sample app.</h1></body></html>"
+}
+
 app.get("hello") { request in
     return "Hello, world"
 }

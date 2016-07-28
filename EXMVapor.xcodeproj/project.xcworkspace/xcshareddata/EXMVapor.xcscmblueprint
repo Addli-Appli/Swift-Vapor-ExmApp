@@ -1,0 +1,58 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6DF7A3042F480CC9944A95D30230FD745DE995C9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "287F3CCB1287376788CD8C8A6441419AFFC4A554" : 0,
+    "23A93BD79D6F4162360D9B57530A0BAC7A3E8EEA" : 0,
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : 0,
+    "6DF7A3042F480CC9944A95D30230FD745DE995C9" : 0,
+    "AB3B39DF79E140C049FAA89F0028F2088162E212" : 0,
+    "1E72C4C11736864B9AA36A7CE5A7583666A1B027" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7D80B900-36BE-4281-9288-9C3319B71902",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "287F3CCB1287376788CD8C8A6441419AFFC4A554" : "Swift-Vapor-ExmApp\/Packages\/HMAC-0.7.1\/",
+    "23A93BD79D6F4162360D9B57530A0BAC7A3E8EEA" : "Swift-Vapor-ExmApp\/Packages\/Strand-1.4.1\/",
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : "Swift-Vapor-ExmApp\/Packages\/Polymorphic-0.2.0\/",
+    "6DF7A3042F480CC9944A95D30230FD745DE995C9" : "Swift-Vapor-ExmApp\/",
+    "AB3B39DF79E140C049FAA89F0028F2088162E212" : "Swift-Vapor-ExmApp\/Packages\/CryptoEssentials-0.7.3\/",
+    "1E72C4C11736864B9AA36A7CE5A7583666A1B027" : "Swift-Vapor-ExmApp\/Packages\/SHA2-0.7.0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EXMVapor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EXMVapor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CryptoKitten\/SHA2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1E72C4C11736864B9AA36A7CE5A7583666A1B027"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ketzusaka\/Strand.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "23A93BD79D6F4162360D9B57530A0BAC7A3E8EEA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CryptoKitten\/HMAC.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "287F3CCB1287376788CD8C8A6441419AFFC4A554"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qutheory\/polymorphic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Addli-Appli\/Swift-Vapor-ExmApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DF7A3042F480CC9944A95D30230FD745DE995C9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CryptoKitten\/CryptoEssentials.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AB3B39DF79E140C049FAA89F0028F2088162E212"
+    }
+  ]
+}
