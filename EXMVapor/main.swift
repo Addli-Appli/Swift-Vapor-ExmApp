@@ -9,12 +9,15 @@
 import Foundation
 import Vapor
 
+typealias Application = Droplet
+
 let test = TestClass()
-test.log(text:"Hello, World!")
+test.log("Hello, World!")
 
 let app = Application()
 
 app.get("/") { request in
+    test.send()
     return "<html><body><h1>Example vapor sample app.</h1></body></html>"
 }
 
@@ -22,7 +25,7 @@ app.get("hello") { request in
     return "Hello, world"
 }
 
-app.start()
+app.serve()
 
 
 //Route.get("hello") { _ in

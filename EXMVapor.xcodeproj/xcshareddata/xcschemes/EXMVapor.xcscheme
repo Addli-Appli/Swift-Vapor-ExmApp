@@ -23,27 +23,18 @@
       <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
         <BuildableReference
           BuildableIdentifier = "primary"
-          BlueprintIdentifier = "______Target_PathIndexable"
-          BuildableName = "PathIndexable.framework"
-          BlueprintName = "PathIndexable"
+          BlueprintIdentifier = "______Target_Jay"
+          BuildableName = "Jay.framework"
+          BlueprintName = "Jay"
           ReferencedContainer = "container:EXMVapor.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
       <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
         <BuildableReference
           BuildableIdentifier = "primary"
-          BlueprintIdentifier = "______Target_PureJSON"
-          BuildableName = "PureJSON.framework"
-          BlueprintName = "PureJSON"
-          ReferencedContainer = "container:EXMVapor.xcodeproj">
-        </BuildableReference>
-      </BuildActionEntry>
-      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
-        <BuildableReference
-          BuildableIdentifier = "primary"
-          BlueprintIdentifier = "______Target_PureJSONFoundation"
-          BuildableName = "PureJSONFoundation.framework"
-          BlueprintName = "PureJSONFoundation"
+          BlueprintIdentifier = "______Target_JayExample"
+          BuildableName = "JayExample"
+          BlueprintName = "JayExample"
           ReferencedContainer = "container:EXMVapor.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -89,6 +80,15 @@
           BlueprintIdentifier = "______Target_Polymorphic"
           BuildableName = "Polymorphic.framework"
           BlueprintName = "Polymorphic"
+          ReferencedContainer = "container:EXMVapor.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_PathIndexable"
+          BuildableName = "PathIndexable.framework"
+          BlueprintName = "PathIndexable"
           ReferencedContainer = "container:EXMVapor.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>
@@ -194,6 +194,15 @@
       <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
         <BuildableReference
           BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_libc"
+          BuildableName = "libc.framework"
+          BlueprintName = "libc"
+          ReferencedContainer = "container:EXMVapor.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
           BlueprintIdentifier = "______Target_Development"
           BuildableName = "Development"
           BlueprintName = "Development"
@@ -212,15 +221,6 @@
       <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
         <BuildableReference
           BuildableIdentifier = "primary"
-          BlueprintIdentifier = "______Target_libc"
-          BuildableName = "libc.framework"
-          BlueprintName = "libc"
-          ReferencedContainer = "container:EXMVapor.xcodeproj">
-        </BuildableReference>
-      </BuildActionEntry>
-      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
-        <BuildableReference
-          BuildableIdentifier = "primary"
           BlueprintIdentifier = "______Target_Performance"
           BuildableName = "Performance"
           BlueprintName = "Performance"
@@ -233,6 +233,15 @@
           BlueprintIdentifier = "______Target_Vapor"
           BuildableName = "Vapor.framework"
           BlueprintName = "Vapor"
+          ReferencedContainer = "container:EXMVapor.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BlueprintIdentifier = "______Target_MySQL"
+          BuildableName = "MySQL.framework"
+          BlueprintName = "MySQL"
           ReferencedContainer = "container:EXMVapor.xcodeproj">
         </BuildableReference>
       </BuildActionEntry>

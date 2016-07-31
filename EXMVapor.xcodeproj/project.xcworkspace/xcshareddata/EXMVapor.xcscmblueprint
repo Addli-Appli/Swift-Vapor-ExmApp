@@ -4,21 +4,29 @@
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "287F3CCB1287376788CD8C8A6441419AFFC4A554" : 0,
-    "23A93BD79D6F4162360D9B57530A0BAC7A3E8EEA" : 0,
-    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : 0,
+    "1E72C4C11736864B9AA36A7CE5A7583666A1B027" : 0,
     "6DF7A3042F480CC9944A95D30230FD745DE995C9" : 0,
     "AB3B39DF79E140C049FAA89F0028F2088162E212" : 0,
-    "1E72C4C11736864B9AA36A7CE5A7583666A1B027" : 0
+    "287F3CCB1287376788CD8C8A6441419AFFC4A554" : 0,
+    "A3DA5A55949AEBD506E099F1A15BE2AA474A5D45" : 0,
+    "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE" : 0,
+    "4A88C7F5F6EA13C3C2A03CD1950D7F655F1E4F26" : 0,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3" : 0,
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : 0,
+    "23A93BD79D6F4162360D9B57530A0BAC7A3E8EEA" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7D80B900-36BE-4281-9288-9C3319B71902",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "287F3CCB1287376788CD8C8A6441419AFFC4A554" : "Swift-Vapor-ExmApp\/Packages\/HMAC-0.7.1\/",
-    "23A93BD79D6F4162360D9B57530A0BAC7A3E8EEA" : "Swift-Vapor-ExmApp\/Packages\/Strand-1.4.1\/",
-    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : "Swift-Vapor-ExmApp\/Packages\/Polymorphic-0.2.0\/",
+    "1E72C4C11736864B9AA36A7CE5A7583666A1B027" : "Swift-Vapor-ExmApp\/Packages\/SHA2-0.7.0\/",
     "6DF7A3042F480CC9944A95D30230FD745DE995C9" : "Swift-Vapor-ExmApp\/",
     "AB3B39DF79E140C049FAA89F0028F2088162E212" : "Swift-Vapor-ExmApp\/Packages\/CryptoEssentials-0.7.3\/",
-    "1E72C4C11736864B9AA36A7CE5A7583666A1B027" : "Swift-Vapor-ExmApp\/Packages\/SHA2-0.7.0\/"
+    "287F3CCB1287376788CD8C8A6441419AFFC4A554" : "Swift-Vapor-ExmApp\/Packages\/HMAC-0.7.1\/",
+    "A3DA5A55949AEBD506E099F1A15BE2AA474A5D45" : "Swift-Vapor-ExmApp\/Packages\/libc-0.1.0\/",
+    "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE" : "Swift-Vapor-ExmApp\/Packages\/MySQL-0.5.0\/",
+    "4A88C7F5F6EA13C3C2A03CD1950D7F655F1E4F26" : "Swift-Vapor-ExmApp\/Packages\/SHA1-0.8.0\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3" : "Swift-Vapor-ExmApp\/Packages\/Vapor-0.13.0\/",
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : "Swift-Vapor-ExmApp\/Packages\/Polymorphic-0.2.0\/",
+    "23A93BD79D6F4162360D9B57530A0BAC7A3E8EEA" : "Swift-Vapor-ExmApp\/Packages\/Strand-1.4.1\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "EXMVapor",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -40,6 +48,16 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "287F3CCB1287376788CD8C8A6441419AFFC4A554"
     },
     {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CryptoKitten\/SHA1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4A88C7F5F6EA13C3C2A03CD1950D7F655F1E4F26"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qutheory\/vapor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3"
+    },
+    {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qutheory\/polymorphic.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC"
@@ -50,9 +68,19 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DF7A3042F480CC9944A95D30230FD745DE995C9"
     },
     {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qutheory\/libc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3DA5A55949AEBD506E099F1A15BE2AA474A5D45"
+    },
+    {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CryptoKitten\/CryptoEssentials.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AB3B39DF79E140C049FAA89F0028F2088162E212"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectlySoft\/Perfect-MySQL.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B123C9ACF68A2BF01173B652DA8ABD73F990D1DE"
     }
   ]
 }
